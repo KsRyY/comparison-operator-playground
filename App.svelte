@@ -15,8 +15,8 @@
     idO2 = 0,
     nIdO1 = 0,
     nIdO2 = 1;
-  import GT from "./GreaterThan";
-  import LT from "./LessThan";
+  import GT from "./GreaterThan.svelte";
+  import LT from "./LessThan.svelte";
   import GTOET from "./GTOET.svelte";
   import LTOET from "./LTOET.svelte";
   import Equal from "./Equal.svelte";
